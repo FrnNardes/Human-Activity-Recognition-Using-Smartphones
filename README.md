@@ -33,5 +33,5 @@ O projeto se encontra no colab, e o download, unzip e load do DataFrame é execu
 2. Ou pegue o código e o execute na sua ide preferida, mas se lembre de baixar todas as bibliotecas necessárias
 
 ## Autores
-Fernando Nardes
-Caio Matos
+- **Fernando Nardes**
+- **Caio Matos**
