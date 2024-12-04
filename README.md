@@ -6,11 +6,7 @@ Este projeto implementa o algoritmo de clustering K-Means, que é amplamente uti
 
 - [Visão Geral](#visão-geral)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Instalação](#instalação)
-- [Uso](#uso)
-- [Exemplo de Execução](#exemplo-de-execução)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
+- [Instalação e uso](#instalação-e-uso)
 - [Autores](#autores)
 - [Agradecimentos](#agradecimentos)
 
@@ -26,10 +22,16 @@ O código é escrito em Python e utiliza a biblioteca **NumPy** e **Pandas** par
 - **NumPy**: Biblioteca para manipulação de arrays e operações matemáticas.
 - **Matplotlib**: Biblioteca para visualização de gráficos.
 - **Scikit-learn (opcional)**: Para comparar a implementação com a solução da biblioteca.
+- **Seaborn**: Para visualização de gráficos com cores aprimoradas.
+- **Pandas**: Para manipulação de dados.
 
-## Instalação
+## Instalação e Uso
 
-1. **Clone o repositório**:
+O projeto se encontra no colab, e o download, unzip e load do DataFrame é executado dentro do código
 
-```bash
-git clone https://github.com/fernando-nardes/k-means-clustering.git
+1. Abra o **Colab** [aqui](https://colab.research.google.com/drive/1RbQ1m3ueFJ-xXxCVLv0XpL6YIhtLHxGs?usp=sharing).
+2. Ou pegue o código e o execute na sua ide preferida, mas se lembre de baixar todas as bibliotecas necessárias
+
+## Autores
+Fernando Nardes
+Caio Matos
