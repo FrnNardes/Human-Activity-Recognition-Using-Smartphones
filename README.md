@@ -19,7 +19,7 @@ Este é um projeto de [descrição do tipo de projeto]. Ele foi desenvolvido par
 
 ## Tecnologias Utilizadas
 
-- **Linguagem/Framework 1**: Explicação breve sobre o que esta tecnologia faz.
+- **Python**: Linguagem de programação de alto nível amplamente utilizada em.
 - **Linguagem/Framework 2**: Explicação breve sobre o que esta tecnologia faz.
 - **Ferramenta/Biblioteca 1**: Explicação breve sobre o que esta tecnologia faz.
   
