@@ -8,7 +8,6 @@ Este projeto implementa o algoritmo de clustering K-Means, que é amplamente uti
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Instalação e uso](#instalação-e-uso)
 - [Autores](#autores)
-- [Agradecimentos](#agradecimentos)
 
 ## Visão Geral
 
