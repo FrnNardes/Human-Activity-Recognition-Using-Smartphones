@@ -1,6 +1,6 @@
-# Nome do Projeto
+# K-Means Clustering
 
-Descrição breve do que o projeto faz, seu propósito e objetivo principal.
+Este projeto implementa o algoritmo de clustering K-Means, que é amplamente utilizado para dividir um conjunto de dados em K grupos (ou clusters) com base em características semelhantes. O objetivo é demonstrar como o K-Means pode ser aplicado em dados reais e como o processo de treinamento e visualização dos resultados pode ser realizado.
 
 ## Sumário
 
@@ -8,6 +8,7 @@ Descrição breve do que o projeto faz, seu propósito e objetivo principal.
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Instalação](#instalação)
 - [Uso](#uso)
+- [Exemplo de Execução](#exemplo-de-execução)
 - [Contribuição](#contribuição)
 - [Licença](#licença)
 - [Autores](#autores)
@@ -15,28 +16,20 @@ Descrição breve do que o projeto faz, seu propósito e objetivo principal.
 
 ## Visão Geral
 
-Este é um projeto de [descrição do tipo de projeto]. Ele foi desenvolvido para [objetivo principal do projeto], e serve para [explicar o impacto ou a finalidade do projeto]. Abaixo estão mais detalhes sobre as tecnologias usadas e como configurar e usar o projeto.
+Este projeto implementa o algoritmo K-Means para realizar clustering em um conjunto de dados. O algoritmo divide os dados em clusters, otimizando as distâncias entre os pontos de dados e seus centros de clusters. Ele é útil em várias áreas, como análise de dados, segmentação de clientes, e redução de dimensionalidade.
+
+O código é escrito em Python e utiliza a biblioteca **NumPy** para manipulação de dados e **Matplotlib** para visualização gráfica. O objetivo deste projeto é fornecer uma implementação simples e eficaz do K-Means, que pode ser facilmente adaptada a diferentes tipos de dados.
 
 ## Tecnologias Utilizadas
 
-- **Python**: Linguagem de programação de alto nível amplamente utilizada em.
-- **Linguagem/Framework 2**: Explicação breve sobre o que esta tecnologia faz.
-- **Ferramenta/Biblioteca 1**: Explicação breve sobre o que esta tecnologia faz.
-  
-(Continue a lista conforme necessário)
+- **Python**: Linguagem de programação principal.
+- **NumPy**: Biblioteca para manipulação de arrays e operações matemáticas.
+- **Matplotlib**: Biblioteca para visualização de gráficos.
+- **Scikit-learn (opcional)**: Para comparar a implementação com a solução da biblioteca.
 
 ## Instalação
 
-### Pré-requisitos
-
-Antes de começar, certifique-se de ter as seguintes ferramentas instaladas em sua máquina:
-
-- **Node.js (versão X ou superior)**
-- **Python (versão Y ou superior)**
-
-### Passos para instalação
-
-1. **Clone o repositório:**
+1. **Clone o repositório**:
 
 ```bash
-git clone https://github.com/usuario/n
+git clone https://github.com/fernando-nardes/k-means-clustering.git
