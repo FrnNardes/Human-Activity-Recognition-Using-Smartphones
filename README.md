@@ -20,7 +20,7 @@ O código é escrito em Python e utiliza a biblioteca **NumPy** e **Pandas** par
 - **Python**: Linguagem de programação principal.
 - **NumPy**: Biblioteca para manipulação de arrays e operações matemáticas.
 - **Matplotlib**: Biblioteca para visualização de gráficos.
-- **Scikit-learn (opcional)**: Para comparar a implementação com a solução da biblioteca.
+- **Scikit-learn**: Para comparar a implementação com a solução da biblioteca.
 - **Seaborn**: Para visualização de gráficos com cores aprimoradas.
 - **Pandas**: Para manipulação de dados.
 
